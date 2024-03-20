@@ -1,4 +1,4 @@
 # awesome-devops
 This is my first Git Respository.
 <br>
-Author - Tirth Oza
+Author - Tirth Oza (tera tirth)
